@@ -1,8 +1,8 @@
 ###Windows
-Please try [this][GitHubHelp] or [this][SO] to cache your GitHub password in Git.
+Please try [this][GitHubHelpWin] or [this][SO] to cache your GitHub password in Git.
 
 ###Mac
-Try [this][[GitHubHelpMac].
+Try [this][GitHubHelpMac].
 
 <!-- Links -->
 
