@@ -15,6 +15,10 @@
 # Write your function below:
 # Body
 
+def right_justify(s):
+	word = str(s)
+	num_spaces = (70 - len(word))
+	print(" " * num_spaces + word)
 
 
 
@@ -24,10 +28,8 @@
 # Write your function above:
 ################################################################################
 def main():
-    """Call your functions within this function."""
-    print("Hello World!")
-    right_justify("Python")
-    right_justify("YOUR_NAME")
+	right_justify("Python")
+	right_justify("Laura")
 
 if __name__ == "__main__":
     main()
